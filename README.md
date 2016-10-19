@@ -1,5 +1,7 @@
 # Harmony API!!
 
+[![Join the chat at https://gitter.im/dale3h/harmony-api](https://badges.gitter.im/dale3h/harmony-api.svg)](https://gitter.im/dale3h/harmony-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Harmony API is a simple server allowing you to query/control multiple local [Harmony
 Home Hubs](http://myharmony.com/products/detail/home-hub/) and their devices
 over HTTP or MQTT.
